@@ -1,0 +1,5 @@
+# [params]
+# google_adsense = "ca-pub-XXXXXXXXXXXXXXXX"
+
+[params.hugopress.modules.google-adsense.hooks.head-end]
+cacheable = true
