@@ -5,4 +5,4 @@
 [![License](https://img.shields.io/github/license/hugomods/google-adsense?style=flat-square)](https://github.com/hugomods/google-adsense/blob/main/LICENSE)
 [![Version](https://img.shields.io/github/v/tag/hugomods/google-adsense?label=version&style=flat-square)](https://github.com/hugomods/google-adsense/tags)
 
-This module offers Google AdSense support for Hugo and [HugoPress](https://hugomods.com/en/docs/hugopress), read more on the [documentations](https://hugomods.com/en/docs/google-adsense).
+This module offers Google AdSense support for Hugo and [HugoPress](https://hugomods.com/en/docs/hugopress), read more on the [documentation](https://hugomods.com/en/docs/google-adsense).
