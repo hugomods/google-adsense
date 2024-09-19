@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/hugomods/google-adsense/compare/v0.2.0...v0.2.1) (2024-09-19)
+
+
+### Bug Fixes
+
+* set google_adsense_ad_blocking_detector and google_adsense_ad_blocking_detector_fail_safe as `false` by default ([c908e27](https://github.com/hugomods/google-adsense/commit/c908e2763e2c47d16a913386d92e4ee3a8f1f792))
+
 ## [0.2.0](https://github.com/hugomods/google-adsense/compare/v0.1.0...v0.2.0) (2024-09-18)
 
 
